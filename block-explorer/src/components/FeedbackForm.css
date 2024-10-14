@@ -1,0 +1,22 @@
+.feedback-form {
+    margin: 20px;
+  }
+  
+  .feedback-form textarea {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  
+  .feedback-form button {
+    padding: 10px 15px;
+    background-color: #282c34;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .feedback-form button:hover {
+    background-color: #444;
+  }
+  
